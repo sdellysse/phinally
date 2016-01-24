@@ -1,17 +1,17 @@
 {
   "name": "phinally",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "keywords": [
-      "promise",
-      "finally",
-      "try"
+    "promise",
+    "finally",
+    "try"
   ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/shawndellysse/phinally.git"
+    "type": "git",
+    "url": "https://github.com/shawndellysse/phinally.git"
   },
   "author": "Shawn Dellysse <sdellysse@gmail.com> (http://github.com/shawndellysse)",
   "license": "MIT",
