@@ -4,7 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+      "promise",
+      "finally",
+      "try"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/shawndellysse/phinally.git"
+  },
   "author": "Shawn Dellysse <sdellysse@gmail.com> (http://github.com/shawndellysse)",
   "license": "MIT",
   "dependencies": {}
